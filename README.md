@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Lialix
 - 👀 I’m interested in Streaming, Gaming and new technologies !
-- 🌱 I’m currently learning PHP, Java, Python, C and I'm looking forward to learn Scala. 
+- 🌱 Python (Django), Java, Scala, JS(VueJS), PHP, HTML/CSS, C 
 - 📫 li.alix.lf@gmail.com
