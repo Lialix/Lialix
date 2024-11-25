@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Lialix
-- 👀 I’m interested in Streaming, Gaming and new technologies !
-- 🌱 Python (Django), Java, Scala, JS (VueJS), PHP, HTML/CSS
-- 📫 li.alix.lf@gmail.com
+- 👀 I’m interested in Web Dev, Streaming and Gaming !
+- 🌱 JavaScript (VueJS, NodeJS), HTML/CSS (Tailwind), Python (Django), Java, C, C++ , PHP
+- 📫 li.alix.pro@gmail.com
